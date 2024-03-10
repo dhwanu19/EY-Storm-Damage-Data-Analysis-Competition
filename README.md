@@ -17,7 +17,7 @@ As part of the EY Cyclone Damage Detection Competition, our team has embarked on
 In the journey of completing this challenge, the team has showcased proficiency in several technical areas:
 
 - **Python Programming**: Crafting efficient, scalable code for data analysis and model training.
-- **Computer Vision**: Applying state-of-the-art deep learning algorithms for image recognition tasks.
+- **Computer Vision**: Applied YOLO deep learning algorithms for image recognition tasks.
 - **Data Retrieval**: Efficiently sourcing and preprocessing large datasets for machine learning applications.
 - **Feature Engineering**: Identifying and encoding relevant features from raw data to improve model performance.
 - **Project Management**: Overseeing the project timeline, task allocation, and team coordination.
